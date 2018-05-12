@@ -1,0 +1,28 @@
+_repo: Frank-of-Freedom-Hill_25991
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25991-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Derieux, Samuel A. (Samuel Arthur)
+    alias: Derieux, Samuel Arthur
+    birthdate: 1881
+    deathdate: 1922
+    gutenberg_agent_id: '31720'
+    url: http://www.gutenberg.org/2009/agents/31720
+description: ''
+gutenberg_issued: '2008-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25991'
+  lccn: '22011097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: Frank of Freedom Hill
+url: http://www.gutenberg.org/ebooks/25991
